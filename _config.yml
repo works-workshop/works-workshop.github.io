@@ -1,6 +1,7 @@
 # Site settings
 title: WORKS Workshop
 avatar: assets/images/works-logo-dark.png
+google_analytics: UA-18066333-14
 
 # Build settings
 markdown: kramdown
