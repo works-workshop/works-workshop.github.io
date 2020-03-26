@@ -1,0 +1,9 @@
+# Site settings
+title: WORKS Workshop
+avatar: assets/images/works-logo-dark.png
+
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-prologue
+collections: [sections]
