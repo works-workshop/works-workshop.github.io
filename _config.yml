@@ -5,5 +5,5 @@ avatar: assets/images/works-logo-dark.png
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-prologue
+#theme: jekyll-theme-prologue
 collections: [sections]
