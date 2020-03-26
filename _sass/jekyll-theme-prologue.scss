@@ -457,6 +457,8 @@ button,
   margin-bottom: 40px;
 
   header {
+    position: relative;
+    float: right;
     color: #666;
     text-align: center;
     background: #fff;
@@ -1121,4 +1123,43 @@ button,
 
 .dates strong {
   font-weight: 500;
+}
+
+.organization {
+  text-align: left;
+}
+
+.organization strong {
+  font-weight: 500;
+}
+
+.organization h2 {
+  font-size: 1.3em;
+}
+
+.organization header h3 {
+  font-weight: 500;
+}
+
+.organization header {
+  line-height: 1.2em;
+}
+
+.organization .second {
+  float: left;
+  min-width: 13em;
+  max-width: 13em;
+  min-height: 5em;
+  text-align: left;
+  padding: 0.5em;
+}
+
+.organization .fit-2 {
+  max-width: 4em;
+  float: left;
+}
+
+.organization img {
+  //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  //filter: grayscale(100%);
 }
