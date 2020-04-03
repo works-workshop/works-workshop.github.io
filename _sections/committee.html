@@ -1,0 +1,23 @@
+---
+title: Program Committee
+icon: fa-edit
+order: 5
+---
+
+<p><i>Tentative</i></p>
+
+<div class="committee">
+    <div class="row">
+        {% assign committee_items = site.data.committee %}
+        {% for member in committee_items %}
+        <div class="4u 6u$(mobile)">
+            <div class="content">
+                <span class="header">{{member.name}}</span><br/>
+                {{member.institution}}&nbsp;&nbsp;
+                <i class="flag-icon flag-icon-{{member.country}}"
+                   style="border-radius: 50%; width: 1em; height: 1em"></i>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
