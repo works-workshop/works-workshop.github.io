@@ -10,12 +10,12 @@ order: 5
     <div class="row">
         {% assign committee_items = site.data.committee %}
         {% for member in committee_items %}
-        <div class="4u 6u$(mobile)">
-            <div class="content">
+        <div class="3u 6u$(mobile)">
+            <div class="content" style="line-height: 1.2em">
                 <span class="header">{{member.name}}</span><br/>
-                {{member.institution}}&nbsp;&nbsp;
                 <i class="flag-icon flag-icon-{{member.country}}"
                    style="border-radius: 50%; width: 1em; height: 1em"></i>
+                {{member.institution}}
             </div>
         </div>
         {% endfor %}
