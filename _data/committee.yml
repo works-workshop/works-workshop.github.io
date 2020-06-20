@@ -14,13 +14,13 @@
   institution: TU Wien
   country: at
 
-- name: Kris Bubendorfer
-  institution: VUW
-  country: nz
+#- name: Kris Bubendorfer
+#  institution: VUW
+#  country: nz
 
-- name: Jesus Carretero
-  institution: Universidad Carlos III de Madrid
-  country: es
+#- name: Jesus Carretero
+#  institution: Universidad Carlos III de Madrid
+#  country: es
 
 - name: Henri Casanova
   institution: University of Hawaii at Manoa
@@ -38,25 +38,25 @@
   institution: University of Notre Dame
   country: us
 
-- name: Tristan Glatard
-  institution: Concordia University
-  country: ca
+#- name: Tristan Glatard
+#  institution: Concordia University
+#  country: ca
 
 - name: Daniel Katz
   institution: UIUC
   country: us
 
-- name: Tamas Kiss
-  institution: University of Westminster
-  country: gb
-
-- name: Dagmar Krefting
-  institution: HTW Berlin
-  country: de
-
-- name: Maciej Malawski
-  institution: AGH UST
-  country: pl
+#- name: Tamas Kiss
+#  institution: University of Westminster
+#  country: gb
+#
+#- name: Dagmar Krefting
+#  institution: HTW Berlin
+#  country: de
+#
+#- name: Maciej Malawski
+#  institution: AGH UST
+#  country: pl
 
 - name: Anirban Mandal
   institution: RENCI
@@ -66,25 +66,25 @@
   institution: UFRJ
   country: br
 
-- name: Paolo Missier
-  institution: Newcastle University
-  country: gb
+#- name: Paolo Missier
+#  institution: Newcastle University
+#  country: gb
 
-- name: Hoang Nguyen
-  institution: University of Queensland
-  country: au
+#- name: Hoang Nguyen
+#  institution: University of Queensland
+#  country: au
 
-- name: Jarek Nabrzyski
-  institution: University of Notre Dame
-  country: us
+#- name: Jarek Nabrzyski
+#  institution: University of Notre Dame
+#  country: us
 
-- name: Daniel de Oliveira
-  institution: UFF
-  country: br
+#- name: Daniel de Oliveira
+#  institution: UFF
+#  country: br
 
-- name: Ilia Pietri
-  institution: Intracom SA
-  country: gr
+#- name: Ilia Pietri
+#  institution: Intracom SA
+#  country: gr
 
 - name: Loic Pottier
   institution: USC/ISI
@@ -94,9 +94,9 @@
   institution: University of Innsbruck
   country: at
 
-- name: Omer Rana
-  institution: Cardiff University
-  country: gb
+#- name: Omer Rana
+#  institution: Cardiff University
+#  country: gb
 
 - name: Ivan Rodero
   institution: Rutgers University
@@ -106,13 +106,17 @@
   institution: University of Manchester
   country: gb
 
+- name: Renan Souza
+  institution: IBM Research
+  country: br
+
 - name: Frédéric Suter
   institution: CNRS, INRIA
   country: fr
 
-- name: Andrew Stephen Mcgough
-  institution: Newcastle University
-  country: gb
+#- name: Andrew Stephen Mcgough
+#  institution: Newcastle University
+#  country: gb
 
 - name: Domenico Talia
   institution: University of Calabria
@@ -122,9 +126,9 @@
   institution: University of Notre Dame
   country: us
 
-- name: Rafael Tolosana-Calasanz
-  institution: Universidad de Zaragoza
-  country: es
+#- name: Rafael Tolosana-Calasanz
+#  institution: Universidad de Zaragoza
+#  country: es
 
 - name: Chase Wu
   institution: NJ Institute of Technology
