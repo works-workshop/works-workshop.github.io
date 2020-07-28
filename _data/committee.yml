@@ -42,9 +42,9 @@
   institution: University of Notre Dame
   country: us
 
-#- name: Tristan Glatard
-#  institution: Concordia University
-#  country: ca
+- name: Tristan Glatard
+  institution: Concordia University
+  country: ca
 
 - name: Daniel Katz
   institution: UIUC
