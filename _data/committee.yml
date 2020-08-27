@@ -57,10 +57,10 @@
 #- name: Dagmar Krefting
 #  institution: HTW Berlin
 #  country: de
-#
-#- name: Maciej Malawski
-#  institution: AGH UST
-#  country: pl
+
+- name: Maciej Malawski
+  institution: AGH UST
+  country: pl
 
 - name: Anirban Mandal
   institution: RENCI
