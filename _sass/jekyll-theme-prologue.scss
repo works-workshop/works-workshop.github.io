@@ -1204,3 +1204,34 @@ button,
 .program {
   color: #333;
 }
+
+#keynote {
+  text-align: left;
+}
+
+#keynote #title img {
+  max-width: 10em;
+  box-shadow: #333 3px 3px 3px;
+  border-radius: 1em;
+  float: left;
+  margin: 0em 1.5em 1em 0em;
+}
+
+#keynote #title h1 {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+#keynote #title h3 {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
+#keynote #bio {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+#keynote #bio strong {
+  font-weight: bold;
+}
