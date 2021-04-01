@@ -2,6 +2,7 @@
 title: Keynote
 icon: fa-chalkboard-teacher
 order: 3
+hide: true
 ---
 
 <div id="keynote">

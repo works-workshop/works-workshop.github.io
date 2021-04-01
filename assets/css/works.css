@@ -1,0 +1,48 @@
+h2 {
+    font-weight: bold !important;
+}
+
+a {
+    color: #CE4157;
+}
+
+a:hover {
+    color: #681126;
+    font-weight: bold;
+}
+
+#nav ul li a.active span::before {
+    color: #CE4157;
+}
+
+.chairs {
+    text-align: left;
+    line-height: 1.3em;
+    font-size: 0.9em;
+    border: 1px solid #eee;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 0.5em;
+    box-shadow: #ccc 3px 3px 3px;
+}
+
+.dates, .committee {
+    border: 1px solid #eee;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 0.5em;
+    box-shadow: #ccc 3px 3px 3px;
+}
+
+.dates ul {
+    list-style: none;
+    margin: 0;
+}
+
+.dates ul li {
+    margin-bottom: 1em;
+}
+
+.organization .box {
+    box-shadow: #ccc 3px 3px 3px !important;
+}
