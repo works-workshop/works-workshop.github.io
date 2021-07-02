@@ -18,6 +18,10 @@
   institution: University of Tennessee
   country: us
 
+- name: Tainã Coleman
+  institution: University of Southern California
+  country: us
+
 #- name: Kris Bubendorfer
 #  institution: VUW
 #  country: nz
@@ -73,6 +77,10 @@
 - name: Marta Mattoso
   institution: UFRJ
   country: br
+  
+- name: Raffaele Montella
+  insitution: University of Naples Parthenope
+  country: it
 
 #- name: Paolo Missier
 #  institution: Newcastle University
