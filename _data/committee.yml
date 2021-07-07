@@ -26,6 +26,10 @@
   institution: University of Southern California
   country: us
 
+- name: Michael R. Crusoé
+  institution: Common Workflow Language
+  country: de
+
 #- name: Kris Bubendorfer
 #  institution: VUW
 #  country: nz
@@ -74,9 +78,9 @@
 #  institution: AGH UST
 #  country: pl
 
-#- name: Anirban Mandal
-#  institution: RENCI
-#  country: us
+- name: Anirban Mandal
+  institution: RENCI
+  country: us
 
 #- name: Marta Mattoso
 #  institution: UFRJ
