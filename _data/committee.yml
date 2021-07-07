@@ -22,6 +22,10 @@
   institution: University of Hawaii at Manoa
   country: us
 
+- name: Kyle Chard
+  institution: University of Chicago
+  country: us
+
 - name: Tainã Coleman
   institution: University of Southern California
   country: us
@@ -110,9 +114,9 @@
 #  institution: Intracom SA
 #  country: gr
 
-#- name: Loic Pottier
-#  institution: University of Southern California
-#  country: us
+- name: Loïc Pottier
+  institution: University of Southern California
+  country: us
 
 - name: Radu Prodan
   institution: University of Klagenfurt
