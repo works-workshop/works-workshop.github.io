@@ -58,9 +58,9 @@
 #  institution: University of Chicago
 #  country: us
 
-#- name: Tristan Glatard
-#  institution: Concordia University
-#  country: ca
+- name: Tristan Glatard
+  institution: Concordia University
+  country: ca
 
 - name: Shantenu Jha
   institution: Rutgers University
