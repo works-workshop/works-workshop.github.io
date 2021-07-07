@@ -2,20 +2,24 @@
   institution: King's College London
   country: gb
 
-- name: Ilkay Altintas
-  institution: SDSC
-  country: us
+#- name: Ilkay Altintas
+#  institution: SDSC
+#  country: us
 
 - name: Khalid Belhajjame
   institution: Universit. Paris-Dauphine
   country: fr
 
-- name: Ivona Brandic
-  institution: TU Wien
-  country: at
+#- name: Ivona Brandic
+#  institution: TU Wien
+#  country: at
   
 - name: Silvina Caino-Lores
   institution: University of Tennessee
+  country: us
+
+- name: Henri Casanova
+  institution: University of Hawaii at Manoa
   country: us
 
 - name: Tainã Coleman
@@ -30,29 +34,25 @@
 #  institution: Universidad Carlos III de Madrid
 #  country: es
 
-- name: Henri Casanova
-  institution: University of Hawaii at Manoa
-  country: us
-
 - name: Thomas Fahringer
   institution: University of Innsbruck
   country: at
 
-- name: Rafael Ferreira da Silva
-  institution: University of Southern California
-  country: us
+#- name: Rafael Ferreira da Silva
+#  institution: University of Southern California
+#  country: us
 
-- name: Daniel Garijo
-  institution: University of Southern California
-  country: us
+#- name: Daniel Garijo
+#  institution: University of Southern California
+#  country: us
 
-- name: Sandra Gesing
-  institution: University of Chicago
-  country: us
+#- name: Sandra Gesing
+#  institution: University of Chicago
+#  country: us
 
-- name: Tristan Glatard
-  institution: Concordia University
-  country: ca
+#- name: Tristan Glatard
+#  institution: Concordia University
+#  country: ca
 
 - name: Daniel S. Katz
   institution: University of Illinois at Urbana-Champaign
@@ -66,17 +66,17 @@
 #  institution: HTW Berlin
 #  country: de
 
-- name: Maciej Malawski
-  institution: AGH UST
-  country: pl
+#- name: Maciej Malawski
+#  institution: AGH UST
+#  country: pl
 
-- name: Anirban Mandal
-  institution: RENCI
-  country: us
+#- name: Anirban Mandal
+#  institution: RENCI
+#  country: us
 
-- name: Marta Mattoso
-  institution: UFRJ
-  country: br
+#- name: Marta Mattoso
+#  institution: UFRJ
+#  country: br
   
 - name: Raffaele Montella
   institution: University of Naples Parthenope
@@ -102,9 +102,9 @@
 #  institution: Intracom SA
 #  country: gr
 
-- name: Loic Pottier
-  institution: University of Southern California
-  country: us
+#- name: Loic Pottier
+#  institution: University of Southern California
+#  country: us
 
 - name: Radu Prodan
   institution: University of Klagenfurt
@@ -114,11 +114,15 @@
 #  institution: Cardiff University
 #  country: gb
 
-- name: Ivan Rodero
-  institution: Rutgers University
-  country: us
+#- name: Ivan Rodero
+#  institution: Rutgers University
+#  country: us
 
-- name: Rizos Sakellariou
+#- name: Rizos Sakellariou
+#  institution: University of Manchester
+#  country: gb
+
+- name: Stian Soiland-Reys
   institution: University of Manchester
   country: gb
 
@@ -126,17 +130,17 @@
   institution: IBM Research
   country: br
 
-- name: Frédéric Suter
-  institution: CNRS, INRIA
-  country: fr
+#- name: Frédéric Suter
+#  institution: CNRS, INRIA
+#  country: fr
 
 #- name: Andrew Stephen Mcgough
 #  institution: Newcastle University
 #  country: gb
 
-- name: Domenico Talia
-  institution: University of Calabria
-  country: it
+#- name: Domenico Talia
+#  institution: University of Calabria
+# country: it
 
 - name: Douglas Thain
   institution: University of Notre Dame
@@ -146,6 +150,10 @@
 #  institution: Universidad de Zaragoza
 #  country: es
 
-- name: Chase Wu
-  institution: NJ Institute of Technology
+#- name: Chase Wu
+#  institution: NJ Institute of Technology
+#  country: us
+
+- name: Justin Wozniak
+  institution: Argonne National Laboratory
   country: us
