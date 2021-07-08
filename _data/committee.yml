@@ -34,6 +34,10 @@
   institution: Common Workflow Language
   country: de
 
+- name: Paolo Di Tommaso
+  institution: Seqera Labs
+  country: es
+
 #- name: Kris Bubendorfer
 #  institution: VUW
 #  country: nz
@@ -78,9 +82,9 @@
 #  institution: HTW Berlin
 #  country: de
 
-#- name: Maciej Malawski
-#  institution: AGH UST
-#  country: pl
+- name: Maciej Malawski
+  institution: AGH UST
+  country: pl
 
 - name: Anirban Mandal
   institution: RENCI
@@ -150,9 +154,9 @@
 #  institution: Newcastle University
 #  country: gb
 
-#- name: Domenico Talia
-#  institution: University of Calabria
-# country: it
+- name: Domenico Talia
+  institution: University of Calabria
+  country: it
 
 - name: Douglas Thain
   institution: University of Notre Dame
