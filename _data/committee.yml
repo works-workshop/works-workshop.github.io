@@ -62,9 +62,9 @@
 #  institution: University of Southern California
 #  country: us
 
-#- name: Sandra Gesing
-#  institution: University of Chicago
-#  country: us
+- name: Sandra Gesing
+  institution: University of Chicago
+  country: us
 
 - name: Tristan Glatard
   institution: Concordia University
