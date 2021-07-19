@@ -150,6 +150,10 @@
 #  institution: University of Manchester
 #  country: gb
 
+- name: Tong Shu
+  institution: Southern Illinois University
+  country: us
+
 - name: Stian Soiland-Reys
   institution: University of Manchester
   country: gb
