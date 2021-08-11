@@ -162,9 +162,9 @@
   institution: IBM Research
   country: br
 
-#- name: Frédéric Suter
-#  institution: CNRS, INRIA
-#  country: fr
+- name: Frédéric Suter
+  institution: CNRS, INRIA
+  country: fr
 
 #- name: Andrew Stephen Mcgough
 #  institution: Newcastle University
