@@ -54,10 +54,6 @@
   institution: University of Innsbruck
   country: at
 
-#- name: Rafael Ferreira da Silva
-#  institution: University of Southern California
-#  country: us
-
 #- name: Daniel Garijo
 #  institution: University of Southern California
 #  country: us
@@ -81,10 +77,6 @@
 #- name: Tamas Kiss
 #  institution: University of Westminster
 #  country: gb
-#
-#- name: Dagmar Krefting
-#  institution: HTW Berlin
-#  country: de
 
 - name: Maciej Malawski
   institution: AGH UST
@@ -106,10 +98,6 @@
 #  institution: Newcastle University
 #  country: gb
 
-#- name: Hoang Nguyen
-#  institution: University of Queensland
-#  country: au
-
 #- name: Jarek Nabrzyski
 #  institution: University of Notre Dame
 #  country: us
@@ -117,10 +105,6 @@
 #- name: Daniel de Oliveira
 #  institution: UFF
 #  country: br
-
-#- name: Ilia Pietri
-#  institution: Intracom SA
-#  country: gr
 
 - name: Jayson Luc Peterson
   institution: Lawrence Livermore National Laboratory
@@ -141,10 +125,6 @@
 #- name: Omer Rana
 #  institution: Cardiff University
 #  country: gb
-
-#- name: Ivan Rodero
-#  institution: Rutgers University
-#  country: us
 
 #- name: Rizos Sakellariou
 #  institution: University of Manchester
