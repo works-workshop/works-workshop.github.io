@@ -38,6 +38,10 @@
   institution: Common Workflow Language
   country: de
 
+- name: Frank Di Natale
+  institution: Nvidia
+  country: us
+
 # - name: Paolo Di Tommaso
 #   institution: Seqera Labs
 #   country: es
@@ -54,13 +58,13 @@
   institution: University of Innsbruck
   country: at
 
-#- name: Daniel Garijo
-#  institution: Universidad Politécnica de Madrid
-#  country: es
+- name: Daniel Garijo
+ institution: Universidad Politécnica de Madrid
+ country: es
 
-# - name: Sandra Gesing
-#   institution: University of Chicago
-#   country: us
+- name: Sandra Gesing
+  institution: University of Illinois Chicago
+  country: us
 
 # - name: Tristan Glatard
 #   institution: Concordia University
@@ -94,9 +98,9 @@
   institution: UFRJ
   country: br
   
-# - name: Raffaele Montella
-#   institution: University of Naples Parthenope
-#   country: it
+- name: Raffaele Montella
+  institution: University of Naples Parthenope
+  country: it
 
 # #- name: Paolo Missier
 # #  institution: Newcastle University
