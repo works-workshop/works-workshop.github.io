@@ -1,34 +1,34 @@
-- name: Pinar Alper
-  institution: King's College London
-  country: gb
+# - name: Pinar Alper
+#   institution: University of Luxembourg
+#   country: lu
 
 #- name: Ilkay Altintas
 #  institution: SDSC
 #  country: us
 
-- name: Rosa M. Badia
-  institution: Barcelona Supercomputing Center
-  country: es
+# - name: Rosa M. Badia
+#   institution: Barcelona Supercomputing Center
+#   country: es
 
-- name: Khalid Belhajjame
-  institution: Universit. Paris-Dauphine
-  country: fr
+# - name: Khalid Belhajjame
+#   institution: Universit. Paris-Dauphine
+#   country: fr
 
 #- name: Ivona Brandic
 #  institution: TU Wien
 #  country: at
   
-- name: Silvina Caino-Lores
-  institution: University of Tennessee
-  country: us
+# - name: Silvina Caino-Lores
+#   institution: University of Tennessee
+#   country: us
 
-- name: Henri Casanova
-  institution: University of Hawaii at Manoa
-  country: us
+# - name: Henri Casanova
+#   institution: University of Hawaii at Manoa
+#   country: us
 
-- name: Kyle Chard
-  institution: University of Chicago
-  country: us
+# - name: Kyle Chard
+#   institution: University of Chicago
+#   country: us
 
 - name: Tainã Coleman
   institution: University of Southern California
@@ -38,9 +38,9 @@
   institution: Common Workflow Language
   country: de
 
-- name: Paolo Di Tommaso
-  institution: Seqera Labs
-  country: es
+# - name: Paolo Di Tommaso
+#   institution: Seqera Labs
+#   country: es
 
 #- name: Kris Bubendorfer
 #  institution: VUW
@@ -55,121 +55,125 @@
   country: at
 
 #- name: Daniel Garijo
-#  institution: University of Southern California
-#  country: us
+#  institution: Universidad Politécnica de Madrid
+#  country: es
 
-- name: Sandra Gesing
-  institution: University of Chicago
+# - name: Sandra Gesing
+#   institution: University of Chicago
+#   country: us
+
+# - name: Tristan Glatard
+#   institution: Concordia University
+#   country: ca
+
+# - name: Shantenu Jha
+#   institution: Rutgers University
+#   country: us
+
+# - name: Daniel S. Katz
+#   institution: University of Illinois at Urbana-Champaign
+#   country: us
+
+# #- name: Tamas Kiss
+# #  institution: University of Westminster
+# #  country: gb
+
+- name: Ketan C. Maheshwari
+  institution: Oak Ridge National Laboratory
   country: us
 
-- name: Tristan Glatard
-  institution: Concordia University
-  country: ca
+# - name: Maciej Malawski
+#   institution: AGH UST
+#   country: pl
 
-- name: Shantenu Jha
-  institution: Rutgers University
-  country: us
-
-- name: Daniel S. Katz
-  institution: University of Illinois at Urbana-Champaign
-  country: us
-
-#- name: Tamas Kiss
-#  institution: University of Westminster
-#  country: gb
-
-- name: Maciej Malawski
-  institution: AGH UST
-  country: pl
-
-- name: Anirban Mandal
-  institution: RENCI
-  country: us
+# - name: Anirban Mandal
+#   institution: RENCI
+#   country: us
 
 - name: Marta Mattoso
   institution: UFRJ
   country: br
   
-- name: Raffaele Montella
-  institution: University of Naples Parthenope
-  country: it
+# - name: Raffaele Montella
+#   institution: University of Naples Parthenope
+#   country: it
 
-#- name: Paolo Missier
-#  institution: Newcastle University
-#  country: gb
-
-#- name: Jarek Nabrzyski
-#  institution: University of Notre Dame
-#  country: us
+# #- name: Paolo Missier
+# #  institution: Newcastle University
+# #  country: gb
 
 #- name: Daniel de Oliveira
 #  institution: UFF
 #  country: br
 
-- name: Jayson Luc Peterson
-  institution: Lawrence Livermore National Laboratory
-  country: us
+# - name: Jayson Luc Peterson
+#   institution: Lawrence Livermore National Laboratory
+#   country: us
 
-- name: Loïc Pottier
-  institution: University of Southern California
-  country: us
+# - name: Loïc Pottier
+#   institution: University of Southern California
+#   country: us
 
-- name: Radu Prodan
-  institution: University of Klagenfurt
-  country: at
+# - name: Radu Prodan
+#   institution: University of Klagenfurt
+#   country: at
   
-- name: Lavanya Ramakrishnan
-  institution: Lawrence Berkeley National Laboratory
-  country: us
+# - name: Lavanya Ramakrishnan
+#   institution: Lawrence Berkeley National Laboratory
+#   country: us
 
-#- name: Omer Rana
-#  institution: Cardiff University
-#  country: gb
+# #- name: Omer Rana
+# #  institution: Cardiff University
+# #  country: gb
 
-#- name: Rizos Sakellariou
-#  institution: University of Manchester
-#  country: gb
+# #- name: Rizos Sakellariou
+# #  institution: University of Manchester
+# #  country: gb
 
-- name: Tong Shu
-  institution: Southern Illinois University
-  country: us
+# - name: Tong Shu
+#   institution: Southern Illinois University
+#   country: us
 
-- name: Stian Soiland-Reys
-  institution: University of Manchester
-  country: gb
+# - name: Stian Soiland-Reys
+#   institution: University of Manchester
+#   country: gb
 
-- name: Renan Souza
-  institution: IBM Research
-  country: br
+# - name: Renan Souza
+#   institution: IBM Research
+#   country: br
 
 - name: Frédéric Suter
-  institution: CNRS, INRIA
-  country: fr
-
-#- name: Andrew Stephen Mcgough
-#  institution: Newcastle University
-#  country: gb
-
-- name: Domenico Talia
-  institution: University of Calabria
-  country: it
-
-- name: Douglas Thain
-  institution: University of Notre Dame
-  country: us
-
-#- name: Rafael Tolosana-Calasanz
-#  institution: Universidad de Zaragoza
-#  country: es
-
-- name: Matthew Wolf
   institution: Oak Ridge National Laboratory
   country: us
+
+# #- name: Andrew Stephen Mcgough
+# #  institution: Newcastle University
+# #  country: gb
+
+# - name: Domenico Talia
+#   institution: University of Calabria
+#   country: it
+
+# - name: Douglas Thain
+#   institution: University of Notre Dame
+#   country: us
+
+# #- name: Rafael Tolosana-Calasanz
+# #  institution: Universidad de Zaragoza
+# #  country: es
+
+- name: Sean R. Wilkinson
+  institution: Oak Ridge National Laboratory
+  country: us
+
+# - name: Matthew Wolf
+#   institution: Oak Ridge National Laboratory
+#   country: us
 
 - name: Justin Wozniak
   institution: Argonne National Laboratory
   country: us
 
-- name: Chase Q. Wu
-  institution: New Jersey Institute of Technology
-  country: us
+# - name: Chase Q. Wu
+#   institution: New Jersey Institute of Technology
+#   country: us

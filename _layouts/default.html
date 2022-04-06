@@ -1,15 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 
-<head>
-    <title>{% if page.title %} {{ page.title }} - {% endif %}{{ site.acronym }}</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <noscript>
-        <link rel="stylesheet" href="assets/css/noscript.css" />
-    </noscript>
-</head>
+{% include head.html %}
 
 <body class="is-preload">
     <!-- Sidebar -->
@@ -21,6 +13,7 @@
                     <li><a href="#dates">Important Dates</a></li>
                     <!--<li><a href="#cfp">CFP</a></li> -->
                     <li><a href="#organization">Organization</a></li>
+                    <li><a href="#pc">Program Committee</a></li>
                 </ul>
             </nav>
         </div>
