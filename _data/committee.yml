@@ -106,9 +106,9 @@
 # #  institution: Newcastle University
 # #  country: gb
 
-#- name: Daniel de Oliveira
-#  institution: UFF
-#  country: br
+- name: Daniel de Oliveira
+  institution: UFF
+  country: br
 
 # - name: Jayson Luc Peterson
 #   institution: Lawrence Livermore National Laboratory
