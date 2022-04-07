@@ -42,9 +42,9 @@
   institution: Nvidia
   country: us
 
-# - name: Paolo Di Tommaso
-#   institution: Seqera Labs
-#   country: es
+- name: Paolo Di Tommaso
+  institution: Seqera Labs
+  country: es
 
 #- name: Kris Bubendorfer
 #  institution: VUW
