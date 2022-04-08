@@ -122,9 +122,9 @@
 #   institution: University of Klagenfurt
 #   country: at
   
-# - name: Lavanya Ramakrishnan
-#   institution: Lawrence Berkeley National Laboratory
-#   country: us
+- name: Lavanya Ramakrishnan
+  institution: Lawrence Berkeley National Laboratory
+  country: us
 
 # #- name: Omer Rana
 # #  institution: Cardiff University
