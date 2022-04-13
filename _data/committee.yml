@@ -86,9 +86,9 @@
   institution: Oak Ridge National Laboratory
   country: us
 
-# - name: Maciej Malawski
-#   institution: AGH UST
-#   country: pl
+- name: Maciej Malawski
+  institution: AGH UST
+  country: pl
 
 # - name: Anirban Mandal
 #   institution: RENCI
@@ -110,9 +110,9 @@
   institution: UFF
   country: br
 
-# - name: Jayson Luc Peterson
-#   institution: Lawrence Livermore National Laboratory
-#   country: us
+- name: J. Luc Peterson
+  institution: Lawrence Livermore National Laboratory
+  country: us
 
 # - name: Loïc Pottier
 #   institution: University of Southern California
