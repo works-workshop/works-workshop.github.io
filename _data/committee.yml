@@ -158,9 +158,9 @@
 #   institution: University of Calabria
 #   country: it
 
-# - name: Douglas Thain
-#   institution: University of Notre Dame
-#   country: us
+- name: Douglas Thain
+  institution: University of Notre Dame
+  country: us
 
 # #- name: Rafael Tolosana-Calasanz
 # #  institution: Universidad de Zaragoza
