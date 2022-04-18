@@ -65,83 +65,105 @@ permalink: /
 </section>
 
 <!-- CFP -->
-<!-- <section id="cfp" class="wrapper style1 fullscreen fade-up">
+<section id="cfp" class="wrapper style3 fullscreen fade-up">
 	<div class="inner">
 		<h1>Call for Papers</h1>
 
 		<p>
-			Escience researchers often invest significant time and effort in projects
-      that can have unexpected outcomes. When results are obtained that do not fit
-      the established molds expected by publishing venues, these results can be lost.
-      The ERROR Workshop invites research results from computing and computational
-      projects that encounter unexpected or negative results that would be difficult
-      to report on elsewhere. 
-     </p>
-
-		<p>
-			Novel hardware technologies and machine learning approaches
-			(among others) are rapidly changing approaches, methods, and scale applied in
-			escience domains. Researchers must deal with this novelty in multiple
-			dimensions, many of which are beyond their control. Consequently, it is likely
-			that some of the obtained results will not be of the expected form: they are
-			negative (deviating from initial hypothesis), abnormal (anomalous to results
-			from similar studies), or otherwise not useful in the established sense.
+			Scientific workflows have been almost universally used across scientific domains and have underpinned some
+			of the most significant discoveries of the past several decades. Workflow management systems (WMSs) provide
+			abstraction and automation which enable a broad range of researchers to easily define sophisticated
+			computational processes and to then execute them efficiently on parallel and distributed computing systems.
+			As workflows have been adopted by a number of scientific communities, they are becoming more complex and
+			require more sophisticated workflow management capabilities. A workflow now can analyze terabyte-scale data
+			sets, be composed of one million individual tasks, require coordination between heterogeneous tasks, manage
+			tasks that execute for milliseconds to hours, and can process data streams, files, and data placed in object
+			stores. The computations can be single core workloads, loosely coupled computations, or tightly all within a
+			single workflow, and can run in dispersed computing platforms.
 		</p>
 
 		<p>
-			Under normal circumstances, such negative results and why they were obtained
-			are seldom discussed, analyzed and published. Useful lessons are thus lost to
-			the scientific community. Yet ignoring such results and the process by which
-			they were obtained poses a risk of repetition. The fact that other researchers
-			likely face the same situations and the same pitfalls further increases the
-			cost of research, a cost that would have been avoided if the negative results
-			were brought forward and discussed in-depth within and across communities.
+			This workshop focuses on the many facets of scientific workflow management systems, ranging from actual
+			execution to service management and the coordination and optimization of data, service, and job
+			dependencies. The workshop covers a broad range of issues in the scientific workflow lifecycle that include:
+			scientific workflows representation and enactment; workflow scheduling techniques to optimize the execution
+			of the workflow on heterogeneous infrastructures; workflow enactment engines that need to deal with failures
+			in the application and execution environment; and a number of computer science problems related to
+			scientific workflows such as semantic technologies, compiler methods, scheduling and fault detection and
+			tolerance.
+		</p>
+
+		<p>
+			WORKS22 will be held in conjunction with the SuperComputing (SC22), Dallas, Texas, USA, at Kay Bailey
+			Hutchison Convention Center Dallas.
 		</p>
 
 		<h3 style="margin-bottom: 0">Topics for the workshop</h3>
+		<p style="margin-bottom: 0">
+			WORKS22 welcomes original submissions in a range of areas, including but not limited to:
+		</p>
 		<ul style="margin-left: 1em">
-			<li>Unforeseen technology/problem/technique misfits</li>
-			<li>Institutional policies (on rejected research)</li>
-			<li>Failures and obstacles faced during a successful research work</li>
-			<li>Controversial results because of undiscovered technical glitch</li>
-			<li>Unconventional results which contradict theoretical expectations</li>
-			<li>Discovery of better approaches after significant efforts spent on research</li>
-			<li>Inadequate or misconfigured infrastructure</li>
-			<li>Abnormal and anomalous results</li>
-			<li>Ongoing research with setbacks and lessons learned</li>
-			<li>A hypothesis with one or more limiting assumptions found to be incorrect</li>
-			<li>Discovery of unexpected behavior in hardware, networks or platforms</li>
-			<li>Data size that is too big or too small for the applied technique</li>
-			<li>Implementation of simulation tools based on incorrect physical observations</li>
-			<li>Defect in software design, architecture and/or user interface</li>
-			<li>Software and platform incompatibilities</li>
-			<li>Zero defect software policy and its implications</li>
-			<li>Other topics relevant to the description above</li>
+			<li>Big Data analytics workflows, AI workflows</li>
+			<li>Data-driven workflow processing, stream-based workflows</li>
+			<li>Workflow composition, tools, orchestrators, and languages</li>
+			<li>Workflow execution in distributed environments (including HPC, clouds, and grids)</li>
+			<li>FAIR computational workflows</li>
+			<li>Dynamic data dependent workflow systems solutions</li>
+			<li>Exascale computing with workflows</li>
+			<li>In Situ Data Analytics Workflows</li>
+			<li>Human-in-the-loop workflows</li>
+			<li>Workflow fault-tolerance and recovery techniques</li>
+			<li>Workflow user environments, including portals</li>
+			<li>Workflow applications and their requirements</li>
+			<li>Adaptive workflows</li>
+			<li>Workflow optimizations (including scheduling and energy efficiency)</li>
+			<li>Performance analysis of workflows</li>
+			<li>Workflow provenance</li>
+			<li>Registers for workflows</li>
+			<li>Serverless workflows and serverless orchestration</li>
 		</ul>
+
+		<p style="margin-bottom: 0">There will be two forms of presentations:</p>
+		<ul style="margin-left: 1em">
+			<li><strong>Talks - Full papers</strong> (up to 8 pages) describing a research contribution in the topics
+				listed above.</li>
+			<li><strong>Lightning Talks - Abstracts</strong> (up to 2 pages) describing a novel tool, scientific
+				workflow, or concept.</li>
+		</ul>
+		<p>
+			Submission of a full paper may result in a talk, submission of an abstract may result in a lightning talk.
+			Presenters of full papers will be given a 13-minute time slot (plus 2 minutes for questions) to provide a
+			summary and update to their research work. Presenters of abstracts will be given a 5-minute time slot
+			(including 3 minutes for questions) to present a novel tool or a scientific workflow.
+		</p>
+
 
 		<h3>Proceedings Publication</h3>
 		<p>
-			Accepted papers from the workshop will be published as part of eScience
-			2022 proceedings to be published by the IEEE Computer Society Press, USA and
+			Accepted papers from the workshop will be published by the IEEE Computer Society Press, USA and
 			made available online through the IEEE Digital Library.
 		</p>
 
 		<h3>Paper Submission Guidelines</h3>
+		<ul>
+			<li><strong>Full papers:</strong> Submissions are limited to 8 pages. The 8-page limit includes figures, tables, appendices,
+				and references.</li>
+			<li><strong>Abstracts:</strong> Submissions are limited to 2 pages (including references). The 2-pages limit includes the
+				description of a novel tool/science workflow/concept, and a link of a repository in which the novel
+				source-code of the tool is stored. This repository will need to specify all the instructions necessary
+				to execute the tool, so reviewers can test it. Abstracts will be compiled into a single paper and
+				published as part of the workshop proceedings.</li>
+		</ul>
 		<p>
-			Authors are invited to submit a maximum of 6-page manuscripts describing
-			original and unpublished work surrounding the aforementioned topics. The format
-			of the paper should be of double column text using single spaced 10 point size
-			on 8.5 x 11 inch pages, as per IEEE 8.5 x 11 manuscript guidelines. Templates
-			are available from
+			The format of the paper should be of double column text using single spaced 10 point size on 8.5 x 11 inch
+			pages, as per IEEE 8.5 x 11 manuscript guidelines. Templates are available from
 
 			<a href=http://www.ieee.org/publications_standards/publications/authors/author_templates.html
-				target=_blank>this link</a>.<br>
-
-			Authors should submit a PDF file that will print on a postscript printer
-			to the <strong><a href=https://easychair.org/conferences/?conf=error2022 target=_blank>easychair conference system</a></strong>.
+				target=_blank><strong>this link</strong></a>.<br>
 		</p>
+		<a href="http://submissions.supercomputing.org" target="_blank" class="button">Submit Your Abstract or Paper</a>
 	</div>
-</section> -->
+</section>
 
 <!-- Organization -->
 <section id="organization" class="wrapper style1 fade-up">
@@ -212,7 +234,8 @@ permalink: /
 			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
 				<h3 style="margin: 0">{{pc.name}}</h3>
 				<p style="margin: 0">
-					<i class="flag-icon flag-icon-{{pc.country}}" style="border-radius: 100%; width: 1em; height: 1em"></i>
+					<i class="flag-icon flag-icon-{{pc.country}}"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
 					{{pc.institution}}
 				</p>
 			</section>

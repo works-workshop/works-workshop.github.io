@@ -1831,11 +1831,11 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: transparent;
+		background-color: #E3CDAF;
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: rgba(155, 155, 155, 0.9) !important;
 		border-radius: 3em;
-		color: #ffffff !important;
+		color: #000 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.6em;
@@ -3261,7 +3261,12 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #6f2232;
+			background-color: #ffffff;
+			background-attachment: fixed;
+			background-image: url("images/intro.svg");
+			background-position: top right;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
 		}
 
 		.wrapper.style3-alt {
