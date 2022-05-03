@@ -114,9 +114,9 @@
   institution: Lawrence Livermore National Laboratory
   country: us
 
-# - name: Loïc Pottier
-#   institution: University of Southern California
-#   country: us
+- name: Loïc Pottier
+  institution: University of Southern California
+  country: us
 
 # - name: Radu Prodan
 #   institution: University of Klagenfurt
