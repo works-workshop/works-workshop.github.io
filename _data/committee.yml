@@ -146,6 +146,10 @@
 #   institution: IBM Research
 #   country: br
 
+- name: Tyler Skluzacek
+  institution: Oak Ridge National Laboratory
+  country: us
+  
 - name: Frédéric Suter
   institution: Oak Ridge National Laboratory
   country: us
