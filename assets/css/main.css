@@ -3922,3 +3922,7 @@ input, select, textarea {
 			}
 
 		}
+
+td a {
+	color: #e85a4f !important;
+}
