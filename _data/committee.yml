@@ -1,8 +1,8 @@
 # Program committee members
 
-# - name: Pinar Alper
-#   institution: University of Luxembourg
-#   country: lu
+- name: Pinar Alper
+  institution: University of Luxembourg
+  country: lu
 
 #- name: Ilkay Altintas
 #  institution: SDSC
@@ -12,9 +12,9 @@
   institution: Barcelona Supercomputing Center
   country: es
 
-# - name: Khalid Belhajjame
-#   institution: Universit. Paris-Dauphine
-#   country: fr
+- name: Khalid Belhajjame
+  institution: Universit. Paris-Dauphine
+  country: fr
 
 #- name: Ivona Brandic
 #  institution: TU Wien
@@ -83,6 +83,10 @@
 # #- name: Tamas Kiss
 # #  institution: University of Westminster
 # #  country: gb
+
+- name: Jakob Luettgau
+  institution: University of Tennessee
+  country: us
 
 - name: Ketan C. Maheshwari
   institution: Oak Ridge National Laboratory
