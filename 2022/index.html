@@ -1,14 +1,65 @@
----
-layout: default
-permalink: /
----
 
-<!-- Intro -->
+<!DOCTYPE HTML>
+<html>
+
+<head><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" /><link rel="canonical" href="http://localhost:4000/" /><!-- Title, description, author -->
+  <title>WORKS 2022</title>
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="http://localhost:4000/" />
+  <meta property="og:site_name" content="17th Workshop on Workflows in Support of Large-Scale Science" />
+  <meta property="og:description" content="" />
+  
+  <!-- Styles -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+  <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js" defer></script><![endif]-->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/flag-icon.min.css" />
+  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+
+  <!-- Scripts -->
+  <noscript>
+    <link rel="stylesheet" href="assets/css/noscript.css" />
+  </noscript>
+
+</head>
+
+<body class="is-preload">
+    <!-- Sidebar -->
+    <section id="sidebar">
+        <div class="inner">
+            <nav>
+                <ul>
+                    <li><a href="#intro">WORKS 2022</a></li>
+                    <li><a href="#program">Program</a></li>
+                    <li><a href="#keynote">Keynote</a></li>
+                    <li><a href="#dates">Important Dates</a></li>
+                    <li><a href="#cfp">Call for Papers</a></li>
+                    <li><a href="#organization">Organization</a></li>
+                    <li><a href="#pc">Program Committee</a></li>
+                </ul>
+            </nav>
+        </div>
+    </section>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+        <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>{{site.acronym}}</h1>
+		<h1>WORKS 2022</h1>
 		<p>
-			<strong>{{site.title}}</strong><br />November 14, 2022 &mdash; 8:30am-noon CT &mdash; Room D222<br />
+			<strong>17th Workshop on Workflows in Support of Large-Scale Science</strong><br />November 14, 2022 &mdash; 8:30am-noon CT &mdash; Room D222<br />
 			Dallas, TX, USA (and virtual)
 			<span style="font-size: 0.6em; top: 0; right: 1em; position: absolute; text-align: right;">
 				In conjunction with<br />
@@ -21,7 +72,7 @@ permalink: /
 
 		</p>
 		<p>
-			{{site.acronym}} focuses on the many facets of scientific workflow management systems, ranging from
+			WORKS 2022 focuses on the many facets of scientific workflow management systems, ranging from
 			actual execution to service management and the coordination and optimization of data, service, and job
 			dependencies. The workshop covers a broad range of issues in the scientific workflow lifecycle that include:
 			scientific workflows representation and enactment; workflow scheduling techniques to optimize the execution
@@ -481,16 +532,246 @@ permalink: /
 	<div class="inner">
 		<h2>Program Committee</h2>
 		<div class="features" style="font-size: 0.8em !important">
-			{% for pc in site.data.committee %}
+			
 			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
-				<h3 style="margin: 0">{{pc.name}}</h3>
+				<h3 style="margin: 0">Rosa M. Badia</h3>
 				<p style="margin: 0">
-					<i class="flag-icon flag-icon-{{pc.country}}"
+					<i class="flag-icon flag-icon-es"
 						style="border-radius: 100%; width: 1em; height: 1em"></i>
-					{{pc.institution}}
+					Barcelona Supercomputing Center
 				</p>
 			</section>
-			{% endfor %}
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Henri Casanova</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Hawaii at Manoa
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Kyle Chard</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Chicago
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Tainã Coleman</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Southern California
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Michael R. Crusoe</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-de"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Common Workflow Language
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Frank Di Natale</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Nvidia
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Paolo Di Tommaso</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-es"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Seqera Labs
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Thomas Fahringer</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-at"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Innsbruck
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Daniel Garijo</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-es"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Universidad Politécnica de Madrid
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Sandra Gesing</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Illinois Chicago
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Daniel S. Katz</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Illinois at Urbana-Champaign
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Ketan C. Maheshwari</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Oak Ridge National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Maciej Malawski</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-pl"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					AGH UST
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Marta Mattoso</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-br"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					UFRJ
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Raffaele Montella</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-it"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Naples Parthenope
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Daniel de Oliveira</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-br"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					UFF
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">J. Luc Peterson</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Lawrence Livermore National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Loïc Pottier</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Lawrence Livermore National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Lavanya Ramakrishnan</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Lawrence Berkeley National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Tyler Skluzacek</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Oak Ridge National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Frédéric Suter</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Oak Ridge National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Douglas Thain</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					University of Notre Dame
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Sean R. Wilkinson</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Oak Ridge National Laboratory
+				</p>
+			</section>
+			
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">Justin Wozniak</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-us"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					Argonne National Laboratory
+				</p>
+			</section>
+			
 		</div>
 	</div>
 </section>
+
+    </div>
+    <!-- Footer -->
+    <footer id="footer" class="wrapper style1">
+        <div class="inner">
+            <ul class="menu">
+                <li>&copy; WORKS 2022. All rights reserved.</li>
+            </ul>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
