@@ -1,64 +1,72 @@
 # Program committee members
 
-- name: Pinar Alper
-  institution: University of Luxembourg
-  country: lu
+#- name: Pinar Alper
+#  institution: University of Luxembourg
+#  country: lu
 
 #- name: Ilkay Altintas
 #  institution: SDSC
 #  country: us
 
-- name: Rosa M. Badia
-  institution: Barcelona Supercomputing Center
-  country: es
+#- name: Rosa M. Badia
+#  institution: Barcelona Supercomputing Center
+#  country: es
 
-- name: Khalid Belhajjame
-  institution: Universit. Paris-Dauphine
-  country: fr
+#- name: Khalid Belhajjame
+#  institution: Universit. Paris-Dauphine
+#  country: fr
 
-#- name: Ivona Brandic
-#  institution: TU Wien
-#  country: at
+- name: Ivona Brandic
+  institution: TU Wien
+  country: at
+
+#- name: Kris Bubendorfer
+#  institution: VUW
+#  country: nz
   
 # - name: Silvina Caino-Lores
 #   institution: University of Tennessee
 #   country: us
 
-- name: Henri Casanova
-  institution: University of Hawaii at Manoa
-  country: us
+#- name: Henri Casanova
+#  institution: University of Hawaii at Manoa
+#  country: us
 
-- name: Kyle Chard
-  institution: University of Chicago
-  country: us
+#- name: Kyle Chard
+#  institution: University of Chicago
+#  country: us
+
+- name: Jesus Carretero
+  institution: University Carlos III of Madrid
+  country: es
 
 - name: Tainã Coleman
   institution: University of Southern California
   country: us
+  
+- name: Ewa Deelman
+  institution: University of Southern California
+  country: us
 
-- name: Michael R. Crusoe
-  institution: Common Workflow Language
-  country: de
+#- name: Michael R. Crusoe
+#  institution: Common Workflow Language
+#  country: de
 
 - name: Frank Di Natale
   institution: Nvidia
   country: us
 
-- name: Paolo Di Tommaso
-  institution: Seqera Labs
-  country: es
-
-#- name: Kris Bubendorfer
-#  institution: VUW
-#  country: nz
-
-#- name: Jesus Carretero
-#  institution: Universidad Carlos III de Madrid
+#- name: Paolo Di Tommaso
+#  institution: Seqera Labs
 #  country: es
 
-- name: Thomas Fahringer
-  institution: University of Innsbruck
-  country: at
+- name: Rosa Filgueira
+  institution: University of St. Andrews
+  country: gb
+
+#- name: Thomas Fahringer
+#  institution: University of Innsbruck
+#  country: at
 
 - name: Daniel Garijo
   institution: Universidad Politécnica de Madrid
@@ -68,21 +76,25 @@
   institution: University of Illinois Chicago
   country: us
 
-# - name: Tristan Glatard
-#   institution: Concordia University
-#   country: ca
+- name: Tristan Glatard
+   institution: Concordia University
+   country: ca
+   
+- name: William Godoy
+  institution: Oak Ridge National Laboratory
+  country: us
 
-# - name: Shantenu Jha
-#   institution: Rutgers University
-#   country: us
+- name: Shantenu Jha
+  institution: Rutgers University
+  country: us
 
 - name: Daniel S. Katz
   institution: University of Illinois at Urbana-Champaign
   country: us
 
-# #- name: Tamas Kiss
-# #  institution: University of Westminster
-# #  country: gb
+- name: Tamas Kiss
+  institution: University of Westminster
+  country: gb
 
 - name: Jakob Luettgau
   institution: University of Tennessee
@@ -92,49 +104,65 @@
   institution: Oak Ridge National Laboratory
   country: us
 
-- name: Maciej Malawski
-  institution: AGH UST
-  country: pl
+#- name: Maciej Malawski
+#  institution: AGH UST
+#  country: pl
 
 # - name: Anirban Mandal
 #   institution: RENCI
 #   country: us
 
-- name: Marta Mattoso
-  institution: UFRJ
-  country: br
+#- name: Marta Mattoso
+#  institution: UFRJ
+#  country: br
   
 - name: Raffaele Montella
   institution: University of Naples Parthenope
   country: it
 
-# #- name: Paolo Missier
-# #  institution: Newcastle University
-# #  country: gb
-
-- name: Daniel de Oliveira
-  institution: UFF
-  country: br
-
-- name: J. Luc Peterson
-  institution: Lawrence Livermore National Laboratory
+- name: Paolo Missier
+  institution: Newcastle University
+  country: gb
+  
+- name: Bogdan Nicolae
+  institution: Argonne National Laboratory
   country: us
+  
+- name: Paola Olaya
+  institution: University of Tennessee
+  country: us
+
+#- name: Daniel de Oliveira
+#  institution: UFF
+#  country: br
+
+- name: Tom Peterka
+  institution: Argonne National Laboratory
+  country: us
+
+#- name: J. Luc Peterson
+#  institution: Lawrence Livermore National Laboratory
+#  country: us
 
 - name: Loïc Pottier
   institution: Lawrence Livermore National Laboratory
   country: us
 
-# - name: Radu Prodan
-#   institution: University of Klagenfurt
-#   country: at
+- name: Radu Prodan
+  institution: University of Klagenfurt
+  country: at
   
-- name: Lavanya Ramakrishnan
-  institution: Lawrence Berkeley National Laboratory
-  country: us
+#- name: Lavanya Ramakrishnan
+#  institution: Lawrence Berkeley National Laboratory
+#  country: us
 
 # #- name: Omer Rana
 # #  institution: Cardiff University
 # #  country: gb
+
+- name: Ivan Rodero
+  institution: University of Utah
+  country: us
 
 # #- name: Rizos Sakellariou
 # #  institution: University of Manchester
@@ -144,17 +172,22 @@
 #   institution: Southern Illinois University
 #   country: us
 
+- name: Raul Sirvent 
+  institution: Barcelona Supercomputing Center
+  country: es
+
 # - name: Stian Soiland-Reys
 #   institution: University of Manchester
 #   country: gb
 
-# - name: Renan Souza
-#   institution: IBM Research
-#   country: br
 
 - name: Tyler Skluzacek
   institution: Oak Ridge National Laboratory
   country: us
+
+- name: Renan Souza
+  institution: IBM Research
+  country: br
   
 - name: Frédéric Suter
   institution: Oak Ridge National Laboratory
@@ -164,17 +197,21 @@
 # #  institution: Newcastle University
 # #  country: gb
 
-# - name: Domenico Talia
-#   institution: University of Calabria
-#   country: it
+- name: Domenico Talia
+  institution: University of Calabria
+  country: it
+  
+- name: Francois Tessier 
+  institution: INRIA Rennes
+  country: fr
 
 - name: Douglas Thain
   institution: University of Notre Dame
   country: us
 
-# #- name: Rafael Tolosana-Calasanz
-# #  institution: Universidad de Zaragoza
-# #  country: es
+- name: Rafael Tolosana-Calasanz
+  institution: Universidad de Zaragoza
+  country: es
 
 - name: Sean R. Wilkinson
   institution: Oak Ridge National Laboratory
@@ -191,3 +228,7 @@
 # - name: Chase Q. Wu
 #   institution: New Jersey Institute of Technology
 #   country: us
+
+- name: Orcun Yildiz
+  institution: Argonne National Laboratory
+  country: us
