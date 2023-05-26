@@ -17,7 +17,7 @@
 #  country: fr
 
 - name: Ivona Brandic
-  institution: TU Wien
+  institution: Technica University of Vienna
   country: at
 
 #- name: Kris Bubendorfer
@@ -32,9 +32,9 @@
 #  institution: University of Hawaii at Manoa
 #  country: us
 
-#- name: Kyle Chard
-#  institution: University of Chicago
-#  country: us
+- name: Kyle Chard
+  institution: University of Chicago
+  country: us
 
 - name: Jesus Carretero
   institution: University Carlos III of Madrid
@@ -51,6 +51,10 @@
 #- name: Michael R. Crusoe
 #  institution: Common Workflow Language
 #  country: de
+
+- name: Vincenzo de Maio
+  institution: Technical University of Vienna
+  country: at
 
 - name: Frank Di Natale
   institution: Nvidia
@@ -186,8 +190,8 @@
   country: us
 
 - name: Renan Souza
-  institution: IBM Research
-  country: br
+  institution: Oak Ridge National Laboratory
+  country: us
   
 - name: Frédéric Suter
   institution: Oak Ridge National Laboratory
