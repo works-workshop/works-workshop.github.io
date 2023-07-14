@@ -4,9 +4,9 @@
 #  institution: University of Luxembourg
 #  country: lu
 
-#- name: Ilkay Altintas
-#  institution: SDSC
-#  country: us
+- name: Ilkay Altintas
+  institution: SDSC
+  country: us
 
 #- name: Rosa M. Badia
 #  institution: Barcelona Supercomputing Center
@@ -160,9 +160,9 @@
 #  institution: Lawrence Berkeley National Laboratory
 #  country: us
 
-# #- name: Omer Rana
-# #  institution: Cardiff University
-# #  country: gb
+- name: Omer Rana
+  institution: Cardiff University
+  country: gb
 
 - name: Ivan Rodero
   institution: University of Utah
