@@ -2,6 +2,11 @@
   {%- if site.google_analytics and jekyll.environment == 'production' -%}
     {%- include google_analytics.html -%}
   {%- endif -%}
+  
+  <!-- Cache management -->
+  <meta http-equiv='cache-control' content='no-cache'> 
+  <meta http-equiv='expires' content='0'> 
+  <meta http-equiv='pragma' content='no-cache'>
 
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
