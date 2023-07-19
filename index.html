@@ -409,13 +409,13 @@ permalink: /
 		<div class="features">
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/silvina.jpg" width="50px"
-						style="border-radius: 10%"></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);"></span>
 				<h3 style="margin: 0">Silvina Caino-Lores</h3>
 				<p style="margin: 0">University of Tennessee, USA</p>
 			</section>
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/anirban.jpg" width="50px"
-						style="border-radius: 10%" /></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);" /></span>
 				<h3 style="margin: 0">Anirban Mandal</h3>
 				<p style="margin: 0">Renaissance Computing Institute (RENCI), UNC Chapel Hill, USA</p>
 			</section>
@@ -425,44 +425,42 @@ permalink: /
 		<div class="features">
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/abramson.jpg" width="50px"
-						style="border-radius: 10%"></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);"></span>
 				<h3 style="margin: 0">David Abramson</h3>
 				<p style="margin: 0">University of Queensland, Australia</p>
 			</section>
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/atkinson.jpg" width="50px"
-						style="border-radius: 10%" /></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);" /></span>
 				<h3 style="margin: 0">Malcolm Atkinson</h3>
 				<p style="margin: 0">University of Edinburgh, UK</p>
 			</section>
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/deelman.png" width="50px"
-						style="border-radius: 10%"></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);"></span>
 				<h3 style="margin: 0">Ewa Deelman</h3>
 				<p style="margin: 0">University of Southern California, USA</p>
 			</section>
 			<section style="padding: 1em">
 				<span class="icon"><img src="/assets/images/organization/taufer.jpg" width="50px"
-						style="border-radius: 10%" /></span>
+						style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);" /></span>
 				<h3 style="margin: 0">Michela Taufer</h3>
 				<p style="margin: 0">University of Tennessee, USA</p>
 			</section>
 		</div>
 		
 		<strong>Program Committee</strong>
-		<div class="inner">
-			<div class="features" style="font-size: 0.8em !important">
-				{% for pc in site.data.committee %}
-				<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
-					<h3 style="margin: 0">{{pc.name}}</h3>
-					<p style="margin: 0">
-						<i class="flag-icon flag-icon-{{pc.country}}"
-							style="border-radius: 100%; width: 1em; height: 1em"></i>
-						{{pc.institution}}
-					</p>
-				</section>
-				{% endfor %}
-			</div>
+		<div class="features" style="font-size: 0.8em !important">
+			{% for pc in site.data.committee %}
+			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+				<h3 style="margin: 0">{{pc.name}}</h3>
+				<p style="margin: 0">
+					<i class="flag-icon flag-icon-{{pc.country}}"
+						style="border-radius: 100%; width: 1em; height: 1em"></i>
+					{{pc.institution}}
+				</p>
+			</section>
+			{% endfor %}
 		</div>
 	</div>
 </section>
