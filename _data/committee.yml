@@ -32,6 +32,10 @@
 #  institution: University of Hawaii at Manoa
 #  country: us
 
+- name: Alberto Cascajo
+  institution: University Carlos III of Madrid
+  country: es
+
 - name: Kyle Chard
   institution: University of Chicago
   country: us
@@ -168,6 +172,10 @@
   institution: University of Utah
   country: us
 
+- name: Daniel Rosendo
+  institution: INRIA
+  country: fr
+
 # #- name: Rizos Sakellariou
 # #  institution: University of Manchester
 # #  country: gb
@@ -206,7 +214,7 @@
   country: it
   
 - name: Francois Tessier 
-  institution: INRIA Rennes
+  institution: INRIA
   country: fr
 
 - name: Douglas Thain
