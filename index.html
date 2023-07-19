@@ -448,30 +448,28 @@ permalink: /
 				<p style="margin: 0">University of Tennessee, USA</p>
 			</section>
 		</div>
-	</div>
-</section>
-
-<!-- Program Committee -->
-<section id="pc" class="wrapper style2 fade-up">
-	<div class="inner">
-		<h2>Program Committee</h2>
-		<div class="features" style="font-size: 0.8em !important">
-			{% for pc in site.data.committee %}
-			<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
-				<h3 style="margin: 0">{{pc.name}}</h3>
-				<p style="margin: 0">
-					<i class="flag-icon flag-icon-{{pc.country}}"
-						style="border-radius: 100%; width: 1em; height: 1em"></i>
-					{{pc.institution}}
-				</p>
-			</section>
-			{% endfor %}
+		
+		<strong>Program Committee</strong>
+		<div class="inner">
+			<h2>Program Committee</h2>
+			<div class="features" style="font-size: 0.8em !important">
+				{% for pc in site.data.committee %}
+				<section style="padding: 1em; background-color: rgba(255, 255, 255, 0.3);">
+					<h3 style="margin: 0">{{pc.name}}</h3>
+					<p style="margin: 0">
+						<i class="flag-icon flag-icon-{{pc.country}}"
+							style="border-radius: 100%; width: 1em; height: 1em"></i>
+						{{pc.institution}}
+					</p>
+				</section>
+				{% endfor %}
+			</div>
 		</div>
 	</div>
 </section>
 
 <!-- Contact -->
-<section id="pc" class="wrapper style2 fade-up">
+<section id="contact" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>Contact</h2>
 		<p style="margin-bottom: 0">
