@@ -17,7 +17,7 @@
 #  country: fr
 
 - name: Ivona Brandic
-  institution: Technica University of Vienna
+  institution: Technical University of Vienna
   country: at
 
 #- name: Kris Bubendorfer
@@ -32,6 +32,10 @@
 #  institution: University of Hawaii at Manoa
 #  country: us
 
+- name: Jesus Carretero
+  institution: University Carlos III of Madrid
+  country: es
+
 - name: Alberto Cascajo
   institution: University Carlos III of Madrid
   country: es
@@ -39,10 +43,6 @@
 - name: Kyle Chard
   institution: University of Chicago
   country: us
-
-- name: Jesus Carretero
-  institution: University Carlos III of Madrid
-  country: es
 
 - name: Tainã Coleman
   institution: University of Southern California
@@ -60,7 +60,7 @@
   institution: Technical University of Vienna
   country: at
 
-- name: Frank Di Natale
+- name: Frank di Natale
   institution: Nvidia
   country: us
 
@@ -123,15 +123,15 @@
 #- name: Marta Mattoso
 #  institution: UFRJ
 #  country: br
-  
-- name: Raffaele Montella
-  institution: University of Naples Parthenope
-  country: it
 
 - name: Paolo Missier
   institution: Newcastle University
   country: gb
   
+- name: Raffaele Montella
+  institution: University of Naples Parthenope
+  country: it
+
 - name: Bogdan Nicolae
   institution: Argonne National Laboratory
   country: us
@@ -173,7 +173,7 @@
   country: us
 
 - name: Daniel Rosendo
-  institution: INRIA
+  institution: French Institute for Research in Digital Science and Technology (Inria)
   country: fr
 
 # #- name: Rizos Sakellariou
@@ -214,7 +214,7 @@
   country: it
   
 - name: Francois Tessier 
-  institution: INRIA
+  institution: French Institute for Research in Digital Science and Technology (Inria)
   country: fr
 
 - name: Douglas Thain
