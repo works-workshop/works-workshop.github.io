@@ -1845,11 +1845,11 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #E3CDAF;
+		background-color: #2d2d2d;
 		border: solid 1px !important;
 		border-color: rgba(155, 155, 155, 0.9) !important;
 		border-radius: 3em;
-		color: #000 !important;
+		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.6em;
