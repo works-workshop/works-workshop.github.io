@@ -12,13 +12,17 @@
   institution: Barcelona Supercomputing Center
   country: es
 
+- name: Changxin Bai	
+  institution: Kettering University
+  country: us
+
 #- name: Khalid Belhajjame
 #  institution: Universit. Paris-Dauphine
 #  country: fr
 
-- name: Ivona Brandic
-  institution: Technical University of Vienna
-  country: at
+#- name: Ivona Brandic
+#  institution: Technical University of Vienna
+#  country: at
 
 #- name: Kris Bubendorfer
 #  institution: VUW
@@ -28,25 +32,33 @@
 #   institution: University of Tennessee
 #   country: us
 
-#- name: Henri Casanova
-#  institution: University of Hawaii at Manoa
-#  country: us
-
 - name: Jesus Carretero
   institution: University Carlos III of Madrid
   country: es
+
+- name: Henri Casanova
+  institution: University of Hawaii at Manoa
+  country: us
 
 - name: Alberto Cascajo
   institution: University Carlos III of Madrid
   country: es
 
-- name: Kyle Chard
-  institution: University of Chicago
-  country: us
+#- name: Kyle Chard
+#  institution: University of Chicago
+#  country: us
 
 - name: Tainã Coleman
-  institution: University of Southern California
+  institution: San Diego Supercomputing Center
   country: us
+
+- name: Iacoppo	Colonnelli
+  institution: University of Torino
+  country: it  		
+
+- name: Alexandru Costan
+  institution: Inria
+  country: fr
   
 - name: Ewa Deelman
   institution: University of Southern California
@@ -56,21 +68,29 @@
 #  institution: Common Workflow Language
 #  country: de
 
-- name: Vincenzo de Maio
-  institution: Technical University of Vienna
-  country: at
+#- name: Vincenzo de Maio
+#  institution: Technical University of Vienna
+#  country: at
 
-- name: Frank di Natale
-  institution: Nvidia
-  country: us
+#- name: Frank di Natale
+#  institution: Nvidia
+#  country: us
 
-#- name: Paolo Di Tommaso
+#- name: Paolo di Tommaso
 #  institution: Seqera Labs
 #  country: es
 
-- name: Rosa Filgueira
-  institution: University of St. Andrews
-  country: gb
+- name: Jorge Ejarque
+  institution: Barcelona Supercomputing Center
+  country: es
+
+- name: Rafael Ferreira da Silva
+  institution: Oak Ridge National Laboratory
+  country: us
+
+#- name: Rosa Filgueira
+#  institution: University of St. Andrews
+#  country: gb
 
 #- name: Thomas Fahringer
 #  institution: University of Innsbruck
@@ -80,13 +100,13 @@
   institution: Universidad Politécnica de Madrid
   country: es
 
-- name: Sandra Gesing
-  institution: University of Illinois Chicago
-  country: us
+#- name: Sandra Gesing
+#  institution: University of Illinois Chicago
+#  country: us
 
-- name: Tristan Glatard
-  institution: Concordia University
-  country: ca
+#- name: Tristan Glatard
+#  institution: Concordia University
+#  country: ca
    
 - name: William Godoy
   institution: Oak Ridge National Laboratory
@@ -100,9 +120,17 @@
   institution: University of Illinois at Urbana-Champaign
   country: us
 
-- name: Tamas Kiss
-  institution: University of Westminster
-  country: gb
+- name: Mariam Kiran	
+  institution: Oak Ridge National Laboratory
+  country: us
+
+#- name: Tamas Kiss
+#  institution: University of Westminster
+#  country: gb
+
+- name: Daniel Laney	
+  institution: Lawrence Livermore National Laboratory
+  country: us
 
 - name: Jakob Luettgau
   institution: University of Tennessee
@@ -120,9 +148,9 @@
 #   institution: RENCI
 #   country: us
 
-#- name: Marta Mattoso
-#  institution: UFRJ
-#  country: br
+- name: Marta Mattoso
+  institution: UFRJ
+  country: br
 
 - name: Paolo Missier
   institution: Newcastle University
@@ -144,9 +172,13 @@
 #  institution: UFF
 #  country: br
 
-- name: Tom Peterka
-  institution: Argonne National Laboratory
+- name: Tapasya Patki
+  institution: Lawrence Berkeley National Laboratory
   country: us
+
+#- name: Tom Peterka
+#  institution: Argonne National Laboratory
+#  country: us
 
 #- name: J. Luc Peterson
 #  institution: Lawrence Livermore National Laboratory
@@ -159,22 +191,26 @@
 - name: Radu Prodan
   institution: University of Klagenfurt
   country: at
-  
-#- name: Lavanya Ramakrishnan
-#  institution: Lawrence Berkeley National Laboratory
-#  country: us
 
-- name: Omer Rana
-  institution: Cardiff University
-  country: gb
+- name: Bruno Raffin
+  institution: Inria
+  country: fr
 
-- name: Ivan Rodero
-  institution: University of Utah
+- name: Lavanya Ramakrishnan
+  institution: Lawrence Berkeley National Laboratory
   country: us
 
-- name: Daniel Rosendo
-  institution: French Institute for Research in Digital Science and Technology (Inria)
-  country: fr
+#- name: Omer Rana
+#  institution: Cardiff University
+#  country: gb
+
+#- name: Ivan Rodero
+#  institution: University of Utah
+#  country: us
+
+#- name: Daniel Rosendo
+#  institution: French Institute for Research in Digital Science and Technology (Inria)
+#  country: fr
 
 # #- name: Rizos Sakellariou
 # #  institution: University of Manchester
@@ -184,6 +220,10 @@
 #   institution: Southern Illinois University
 #   country: us
 
+- name: Yogesh Simhan 
+  institution: Indian Institute of Science
+  country: in
+
 - name: Raul Sirvent 
   institution: Barcelona Supercomputing Center
   country: es
@@ -192,10 +232,9 @@
 #   institution: University of Manchester
 #   country: gb
 
-
-- name: Tyler Skluzacek
-  institution: Oak Ridge National Laboratory
-  country: us
+#- name: Tyler Skluzacek
+#  institution: Oak Ridge National Laboratory
+#  country: us
 
 - name: Renan Souza
   institution: Oak Ridge National Laboratory
@@ -221,9 +260,9 @@
   institution: University of Notre Dame
   country: us
 
-- name: Rafael Tolosana-Calasanz
-  institution: Universidad de Zaragoza
-  country: es
+#- name: Rafael Tolosana-Calasanz
+#  institution: Universidad de Zaragoza
+#  country: es
 
 - name: Sean R. Wilkinson
   institution: Oak Ridge National Laboratory
