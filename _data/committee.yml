@@ -59,7 +59,11 @@
 - name: Alexandru Costan
   institution: Inria
   country: fr
-  
+
+- name: Daniel de Oliveira
+  institution: Fluminese Federal University
+  country: br
+
 - name: Ewa Deelman
   institution: University of Southern California
   country: us
@@ -88,9 +92,9 @@
   institution: Oak Ridge National Laboratory
   country: us
 
-#- name: Rosa Filgueira
-#  institution: University of St. Andrews
-#  country: gb
+- name: Rosa Filgueira
+  institution: EPCC, University of Edinburgh
+  country: gb
 
 #- name: Thomas Fahringer
 #  institution: University of Innsbruck
@@ -100,9 +104,9 @@
   institution: Universidad Politécnica de Madrid
   country: es
 
-#- name: Sandra Gesing
-#  institution: University of Illinois Chicago
-#  country: us
+- name: Sandra Gesing
+  institution: San Diego Supercomputing Center
+  country: us
 
 #- name: Tristan Glatard
 #  institution: Concordia University
@@ -117,7 +121,7 @@
   country: us
 
 - name: Daniel S. Katz
-  institution: University of Illinois at Urbana-Champaign
+  institution: National Center for Supercomputing Applications
   country: us
 
 - name: Mariam Kiran	
@@ -133,8 +137,8 @@
   country: us
 
 - name: Jakob Luettgau
-  institution: University of Tennessee
-  country: us
+  institution: Inria
+  country: fr
 
 - name: Ketan C. Maheshwari
   institution: Oak Ridge National Laboratory
@@ -167,10 +171,6 @@
 - name: Paola Olaya
   institution: University of Tennessee
   country: us
-
-#- name: Daniel de Oliveira
-#  institution: UFF
-#  country: br
 
 - name: Tapasya Patki
   institution: Lawrence Berkeley National Laboratory
@@ -232,9 +232,9 @@
 #   institution: University of Manchester
 #   country: gb
 
-#- name: Tyler Skluzacek
-#  institution: Oak Ridge National Laboratory
-#  country: us
+- name: Tyler Skluzacek
+  institution: Oak Ridge National Laboratory
+  country: us
 
 - name: Renan Souza
   institution: Oak Ridge National Laboratory
@@ -260,6 +260,10 @@
   institution: University of Notre Dame
   country: us
 
+- name: Paolo Trunfio
+  institution: University of Calabria
+  country: it
+
 #- name: Rafael Tolosana-Calasanz
 #  institution: Universidad de Zaragoza
 #  country: es
@@ -282,4 +286,8 @@
 
 - name: Orcun Yildiz
   institution: Argonne National Laboratory
+  country: us
+
+- name: Pawel Zuk
+  institution: University of Southern California
   country: us
