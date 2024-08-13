@@ -148,9 +148,9 @@
   institution: Oak Ridge National Laboratory
   country: us
 
-#- name: Maciej Malawski
-#  institution: AGH UST
-#  country: pl
+- name: Maciej Malawski
+  institution: AGH UST
+  country: pl
 
 # - name: Anirban Mandal
 #   institution: RENCI
@@ -220,9 +220,9 @@
 # #  institution: University of Manchester
 # #  country: gb
 
-# - name: Tong Shu
-#   institution: Southern Illinois University
-#   country: us
+- name: Tong Shu
+  institution: Southern Illinois University
+  country: us
 
 - name: Yogesh Simhan 
   institution: Indian Institute of Science
