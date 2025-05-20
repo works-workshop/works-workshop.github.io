@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		color: #d0271a;
+		color: #20255c;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1845,9 +1845,9 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #d0271a;
+		background-color: #20255c;
 		border: solid 1px !important;
-		border-color: #d0271a !important;
+		border-color: #20255c !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -3272,7 +3272,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #d0271a;
+			background-color: #20255c;
 		}
 
 		.wrapper.style2-alt {
@@ -3794,10 +3794,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #d0271a, #e59187);
-				background-image: -webkit-linear-gradient(to right, #d0271a, #e59187);
-				background-image: -ms-linear-gradient(to right, #d0271a, #e59187);
-				background-image: linear-gradient(to right, #d0271a, #e59187);
+				background-image: -moz-linear-gradient(to right, #20255c, #b8acfd);
+				background-image: -webkit-linear-gradient(to right, #20255c, #b8acfd);
+				background-image: -ms-linear-gradient(to right, #20255c, #b8acfd);
+				background-image: linear-gradient(to right, #20255c, #b8acfd);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3938,5 +3938,5 @@ input, select, textarea {
 		}
 
 td a {
-	color: #e85a4f !important;
+	color: #3d3384 !important;
 }
