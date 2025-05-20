@@ -3790,7 +3790,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #d0271a6b;
+				background: #20255c;
 			}
 
 			#sidebar nav a:after {
@@ -3886,7 +3886,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #b8acfd;
 						}
 
 		}
