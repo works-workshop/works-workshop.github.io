@@ -1,13 +1,5 @@
 # Program committee members
 
-#- name: Pinar Alper
-#  institution: University of Luxembourg
-#  country: lu
-
-- name: Ilkay Altintas
-  institution: San Diego Supercomputing Center
-  country: us
-
 - name: Rosa M. Badia
   institution: Barcelona Supercomputing Center
   country: es
@@ -15,6 +7,128 @@
 - name: Changxin Bai	
   institution: Kettering University
   country: us
+
+- name: Jesus Carretero
+  institution: University Carlos III of Madrid
+  country: es
+
+- name: Alberto Cascajo
+  institution: University Carlos III of Madrid
+  country: es
+
+- name: Iacoppo	Colonnelli
+  institution: University of Torino
+  country: it  	
+
+- name: Alexandru Costan
+  institution: INSA Rennes
+  country: fr
+
+- name: Daniel de Oliveira
+  institution: Fluminese Federal University
+  country: br
+
+- name: Ewa Deelman
+  institution: USC/ISI
+  country: us
+
+- name: Rafael Ferreira da Silva
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Sandro Fiore
+  institution: University of Trento
+  country: it
+
+- name: William Godoy
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Daniel S. Katz
+  institution: National Center for Supercomputing Applications
+  country: us
+
+- name: Mariam Kiran	
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Daniel Laney	
+  institution: Lawrence Livermore National Laboratory
+  country: us
+
+- name: Ketan C. Maheshwari
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Maciej Malawski
+  institution: AGH University of Krakow
+  country: pl
+
+- name: Marta Mattoso
+  institution: UFRJ
+  country: br
+
+- name: Bogdan Nicolae
+  institution: Argonne National Laboratory
+  country: us
+
+- name: Paula Olaya
+  institution: IBM
+  country: us
+
+- name: Loïc Pottier
+  institution: Lawrence Livermore National Laboratory
+  country: us
+
+- name: Radu Prodan
+  institution: University of Innsbruck
+  country: at
+
+- name: Sashko Ristov
+  institution: University of Innsbruck
+  country: at
+
+- name: Yogesh Simhan 
+  institution: Indian Institute of Science
+  country: in
+
+- name: Raul Sirvent 
+  institution: Barcelona Supercomputing Center
+  country: es
+
+- name: Tyler Skluzacek
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Frédéric Suter
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Domenico Talia
+  institution: University of Calabria
+  country: it
+
+- name: Douglas Thain
+  institution: University of Notre Dame
+  country: us
+
+- name: Sean R. Wilkinson
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Orcun Yildiz
+  institution: Argonne National Laboratory
+  country: us
+
+
+
+#- name: Pinar Alper
+#  institution: University of Luxembourg
+#  country: lu
+
+#- name: Ilkay Altintas
+#  institution: San Diego Supercomputing Center
+#  country: us
 
 #- name: Khalid Belhajjame
 #  institution: Universit. Paris-Dauphine
@@ -32,41 +146,17 @@
 #   institution: University of Tennessee
 #   country: us
 
-- name: Jesus Carretero
-  institution: University Carlos III of Madrid
-  country: es
-
-- name: Henri Casanova
-  institution: University of Hawaii at Manoa
-  country: us
-
-- name: Alberto Cascajo
-  institution: University Carlos III of Madrid
-  country: es
+#- name: Henri Casanova
+#  institution: University of Hawaii at Manoa
+#  country: us
 
 #- name: Kyle Chard
 #  institution: University of Chicago
 #  country: us
 
-- name: Tainã Coleman
-  institution: San Diego Supercomputing Center
-  country: us
-
-- name: Iacoppo	Colonnelli
-  institution: University of Torino
-  country: it  		
-
-- name: Alexandru Costan
-  institution: Inria
-  country: fr
-
-- name: Daniel de Oliveira
-  institution: Fluminese Federal University
-  country: br
-
-- name: Ewa Deelman
-  institution: University of Southern California
-  country: us
+#- name: Tainã Coleman
+#  institution: San Diego Supercomputing Center
+#  country: us	
 
 #- name: Michael R. Crusoe
 #  institution: Common Workflow Language
@@ -84,101 +174,61 @@
 #  institution: Seqera Labs
 #  country: es
 
-- name: Jorge Ejarque
-  institution: Barcelona Supercomputing Center
-  country: es
+#- name: Jorge Ejarque
+#  institution: Barcelona Supercomputing Center
+#  country: es
 
-- name: Rafael Ferreira da Silva
-  institution: Oak Ridge National Laboratory
-  country: us
-
-- name: Rosa Filgueira
-  institution: EPCC, University of Edinburgh
-  country: gb
-
-- name: Sandro Fiore
-  institution: University of Trento
-  country: it
+#- name: Rosa Filgueira
+#  institution: EPCC, University of Edinburgh
+#  country: gb
 
 #- name: Thomas Fahringer
 #  institution: University of Innsbruck
 #  country: at
 
-- name: Daniel Garijo
-  institution: Universidad Politécnica de Madrid
-  country: es
+#- name: Daniel Garijo
+#  institution: Universidad Politécnica de Madrid
+#  country: es
 
-- name: Sandra Gesing
-  institution: San Diego Supercomputing Center
-  country: us
+#- name: Sandra Gesing
+#  institution: San Diego Supercomputing Center
+#  country: us
 
 #- name: Tristan Glatard
 #  institution: Concordia University
 #  country: ca
-   
-- name: William Godoy
-  institution: Oak Ridge National Laboratory
-  country: us
 
-- name: Shantenu Jha
-  institution: Rutgers University
-  country: us
-
-- name: Daniel S. Katz
-  institution: University of Illinois Urbana-Champaign
-  country: us
-
-- name: Mariam Kiran	
-  institution: Oak Ridge National Laboratory
-  country: us
+#- name: Shantenu Jha
+#  institution: Rutgers University
+#  country: us
 
 #- name: Tamas Kiss
 #  institution: University of Westminster
 #  country: gb
 
-- name: Daniel Laney	
-  institution: Lawrence Livermore National Laboratory
-  country: us
-
-- name: Jakob Luettgau
-  institution: Inria
-  country: fr
-
-- name: Ketan C. Maheshwari
-  institution: Oak Ridge National Laboratory
-  country: us
-
-- name: Maciej Malawski
-  institution: AGH UST
-  country: pl
+#- name: Jakob Luettgau
+#  institution: Inria
+#  country: fr
 
 # - name: Anirban Mandal
 #   institution: RENCI
 #   country: us
 
-- name: Marta Mattoso
-  institution: UFRJ
-  country: br
-
-- name: Paolo Missier
-  institution: Newcastle University
-  country: gb
+#- name: Paolo Missier
+#  institution: Newcastle University
+#  country: gb
   
-- name: Raffaele Montella
-  institution: University of Naples Parthenope
-  country: it
-
-- name: Bogdan Nicolae
-  institution: Argonne National Laboratory
-  country: us
+#- name: Raffaele Montella
+#  institution: University of Naples Parthenope
+#  country: it
   
-- name: Paola Olaya
-  institution: University of Tennessee
-  country: us
+#- name: Paola Olaya
+#  institution: University of Tennessee
+#  country: us
 
-- name: Tapasya Patki
-  institution: Lawrence Berkeley National Laboratory
-  country: us
+#- name: Tapasya Patki
+#  institution: Lawrence Berkeley National Laboratory
+#  country: us
 
 #- name: Tom Peterka
 #  institution: Argonne National Laboratory
@@ -188,21 +238,13 @@
 #  institution: Lawrence Livermore National Laboratory
 #  country: us
 
-- name: Loïc Pottier
-  institution: Lawrence Livermore National Laboratory
-  country: us
+#- name: Bruno Raffin
+#  institution: Inria
+#  country: fr
 
-- name: Radu Prodan
-  institution: University of Klagenfurt
-  country: at
-
-- name: Bruno Raffin
-  institution: Inria
-  country: fr
-
-- name: Lavanya Ramakrishnan
-  institution: Lawrence Berkeley National Laboratory
-  country: us
+#- name: Lavanya Ramakrishnan
+#  institution: Lawrence Berkeley National Laboratory
+#  country: us
 
 #- name: Omer Rana
 #  institution: Cardiff University
@@ -220,82 +262,54 @@
 # #  institution: University of Manchester
 # #  country: gb
 
-- name: Tong Shu
-  institution: Southern Illinois University
-  country: us
-
-- name: Yogesh Simhan 
-  institution: Indian Institute of Science
-  country: in
-
-- name: Raul Sirvent 
-  institution: Barcelona Supercomputing Center
-  country: es
+#- name: Tong Shu
+#  institution: Southern Illinois University
+#  country: us
 
 # - name: Stian Soiland-Reys
 #   institution: University of Manchester
 #   country: gb
 
-- name: Tyler Skluzacek
-  institution: Oak Ridge National Laboratory
-  country: us
+#- name: Tyler Skluzacek
+#  institution: Oak Ridge National Laboratory
+#  country: us
 
-- name: Renan Souza
-  institution: Oak Ridge National Laboratory
-  country: us
-  
-- name: Frédéric Suter
-  institution: Oak Ridge National Laboratory
-  country: us
+#- name: Renan Souza
+#  institution: Oak Ridge National Laboratory
+#  country: us
 
 # #- name: Andrew Stephen Mcgough
 # #  institution: Newcastle University
 # #  country: gb
-
-- name: Domenico Talia
-  institution: University of Calabria
-  country: it
   
-- name: Francois Tessier 
-  institution: French Institute for Research in Digital Science and Technology (Inria)
-  country: fr
+#- name: Francois Tessier 
+#  institution: French Institute for Research in Digital Science and Technology (Inria)
+#  country: fr
 
-- name: Douglas Thain
-  institution: University of Notre Dame
-  country: us
-
-- name: Paolo Trunfio
-  institution: University of Calabria
-  country: it
+#- name: Paolo Trunfio
+#  institution: University of Calabria
+#  country: it
 
 #- name: Rafael Tolosana-Calasanz
 #  institution: Universidad de Zaragoza
 #  country: es
 
-- name: Cong Wang
-  institution: RENCI
-  country: us
-
-- name: Sean R. Wilkinson
-  institution: Oak Ridge National Laboratory
-  country: us
+#- name: Cong Wang
+#  institution: RENCI
+#  country: us
 
 # - name: Matthew Wolf
 #   institution: Oak Ridge National Laboratory
 #   country: us
 
-- name: Justin Wozniak
-  institution: Argonne National Laboratory
-  country: us
+#- name: Justin Wozniak
+#  institution: Argonne National Laboratory
+#  country: us
 
 # - name: Chase Q. Wu
 #   institution: New Jersey Institute of Technology
 #   country: us
 
-- name: Orcun Yildiz
-  institution: Argonne National Laboratory
-  country: us
-
-- name: Pawel Zuk
-  institution: University of Southern California
-  country: us
+#- name: Pawel Zuk
+#  institution: University of Southern California
+#  country: us
