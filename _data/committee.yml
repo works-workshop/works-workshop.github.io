@@ -12,6 +12,10 @@
   institution: University Carlos III of Madrid
   country: es
 
+- name: Henri Casanova
+  institution: University of Hawaii at Manoa
+  country: us
+
 - name: Alberto Cascajo
   institution: University Carlos III of Madrid
   country: es
@@ -42,6 +46,14 @@
 
 - name: William Godoy
   institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Amal Gueroudji
+  institution: Argonne National Laboratory
+  country: us
+
+- name: Shantenu Jha
+  institution: Princeton University
   country: us
 
 - name: Daniel S. Katz
@@ -112,6 +124,10 @@
   institution: University of Notre Dame
   country: us
 
+- name: Cong Wang
+  institution: RENCI
+  country: us
+
 - name: Sean R. Wilkinson
   institution: Oak Ridge National Laboratory
   country: us
@@ -145,10 +161,6 @@
 # - name: Silvina Caino-Lores
 #   institution: University of Tennessee
 #   country: us
-
-#- name: Henri Casanova
-#  institution: University of Hawaii at Manoa
-#  country: us
 
 #- name: Kyle Chard
 #  institution: University of Chicago
@@ -197,10 +209,6 @@
 #- name: Tristan Glatard
 #  institution: Concordia University
 #  country: ca
-
-#- name: Shantenu Jha
-#  institution: Rutgers University
-#  country: us
 
 #- name: Tamas Kiss
 #  institution: University of Westminster
@@ -293,10 +301,6 @@
 #- name: Rafael Tolosana-Calasanz
 #  institution: Universidad de Zaragoza
 #  country: es
-
-#- name: Cong Wang
-#  institution: RENCI
-#  country: us
 
 # - name: Matthew Wolf
 #   institution: Oak Ridge National Laboratory
