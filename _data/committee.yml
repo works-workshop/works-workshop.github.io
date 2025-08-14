@@ -44,6 +44,10 @@
   institution: University of Trento
   country: it
 
+- name: Sandra Gesing
+  institution: San Diego Supercomputing Center
+  country: us
+
 - name: William Godoy
   institution: Oak Ridge National Laboratory
   country: us
@@ -64,9 +68,9 @@
   institution: Oak Ridge National Laboratory
   country: us
 
-- name: Daniel Laney	
-  institution: Lawrence Livermore National Laboratory
-  country: us
+#- name: Daniel Laney	
+#  institution: Lawrence Livermore National Laboratory
+#  country: us
 
 - name: Ketan C. Maheshwari
   institution: Oak Ridge National Laboratory
@@ -79,6 +83,10 @@
 - name: Marta Mattoso
   institution: UFRJ
   country: br
+
+- name: Raffaele Montella
+  institution: University of Naples Parthenope
+  country: it
 
 - name: Bogdan Nicolae
   institution: Argonne National Laboratory
@@ -96,6 +104,10 @@
   institution: University of Innsbruck
   country: at
 
+- name: Bruno Raffin
+  institution: Inria
+  country: fr
+
 - name: Sashko Ristov
   institution: University of Innsbruck
   country: at
@@ -109,6 +121,10 @@
   country: es
 
 - name: Tyler Skluzacek
+  institution: Oak Ridge National Laboratory
+  country: us
+
+- name: Renan Souza
   institution: Oak Ridge National Laboratory
   country: us
 
@@ -202,9 +218,6 @@
 #  institution: Universidad Politécnica de Madrid
 #  country: es
 
-#- name: Sandra Gesing
-#  institution: San Diego Supercomputing Center
-#  country: us
 
 #- name: Tristan Glatard
 #  institution: Concordia University
@@ -226,10 +239,6 @@
 #  institution: Newcastle University
 #  country: gb
   
-#- name: Raffaele Montella
-#  institution: University of Naples Parthenope
-#  country: it
-  
 #- name: Paola Olaya
 #  institution: University of Tennessee
 #  country: us
@@ -245,10 +254,6 @@
 #- name: J. Luc Peterson
 #  institution: Lawrence Livermore National Laboratory
 #  country: us
-
-#- name: Bruno Raffin
-#  institution: Inria
-#  country: fr
 
 #- name: Lavanya Ramakrishnan
 #  institution: Lawrence Berkeley National Laboratory
@@ -279,10 +284,6 @@
 #   country: gb
 
 #- name: Tyler Skluzacek
-#  institution: Oak Ridge National Laboratory
-#  country: us
-
-#- name: Renan Souza
 #  institution: Oak Ridge National Laboratory
 #  country: us
 
