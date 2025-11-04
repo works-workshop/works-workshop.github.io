@@ -8,6 +8,10 @@
   institution: Kettering University
   country: us
 
+- name: Silvina Caino-Lores
+  institution: Inria
+  country: fr
+
 - name: Jesus Carretero
   institution: University Carlos III of Madrid
   country: es
@@ -56,21 +60,13 @@
   institution: Argonne National Laboratory
   country: us
 
-- name: Shantenu Jha
-  institution: Princeton University
-  country: us
-
 - name: Daniel S. Katz
   institution: National Center for Supercomputing Applications
   country: us
 
-- name: Mariam Kiran	
-  institution: Oak Ridge National Laboratory
-  country: us
-
-#- name: Daniel Laney	
-#  institution: Lawrence Livermore National Laboratory
-#  country: us
+- name: Jakob Luettgau
+  institution: Inria
+  country: fr
 
 - name: Ketan C. Maheshwari
   institution: Oak Ridge National Laboratory
@@ -80,6 +76,10 @@
   institution: AGH University of Krakow
   country: pl
 
+- name: Anirban Mandal
+  institution: RENCI
+  country: us
+
 - name: Marta Mattoso
   institution: UFRJ
   country: br
@@ -87,10 +87,6 @@
 - name: Raffaele Montella
   institution: University of Naples Parthenope
   country: it
-
-- name: Bogdan Nicolae
-  institution: Argonne National Laboratory
-  country: us
 
 - name: Paula Olaya
   institution: IBM
@@ -112,17 +108,9 @@
   institution: University of Innsbruck
   country: at
 
-- name: Yogesh Simhan 
-  institution: Indian Institute of Science
-  country: in
-
 - name: Raul Sirvent 
   institution: Barcelona Supercomputing Center
   country: es
-
-- name: Tyler Skluzacek
-  institution: Oak Ridge National Laboratory
-  country: us
 
 - name: Renan Souza
   institution: Oak Ridge National Laboratory
@@ -218,6 +206,9 @@
 #  institution: Universidad Politécnica de Madrid
 #  country: es
 
+#- name: Daniel Laney	
+#  institution: Lawrence Livermore National Laboratory
+#  country: us
 
 #- name: Tristan Glatard
 #  institution: Concordia University
@@ -226,10 +217,6 @@
 #- name: Tamas Kiss
 #  institution: University of Westminster
 #  country: gb
-
-#- name: Jakob Luettgau
-#  institution: Inria
-#  country: fr
 
 # - name: Anirban Mandal
 #   institution: RENCI
