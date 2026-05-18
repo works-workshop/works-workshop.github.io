@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		color: #20255c;
+		color: #ff3694;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1845,9 +1845,9 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #20255c;
+		background-color: #ff3694;
 		border: solid 1px !important;
-		border-color: #20255c !important;
+		border-color: #ff3694 !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -3272,7 +3272,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #20255c;
+			background-color: #ff3694;
 		}
 
 		.wrapper.style2-alt {
